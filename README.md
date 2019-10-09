@@ -2,6 +2,7 @@
 <h3> Paypos Satış Otomasyonu</h3>
 <h4>Java NetBeans ile geliştirilen bir işletmenin  satış ve stok işlemlerini yürütüğü işlevlerin modül bazlı otomasyonu</h4>
 <h5>İşlevleri</h5>
+<body>
 <p>
     » Kullanıcı Giriş<br>
     » Admin Kullanıcı ve Misafir Kullanıcı Yönetimi<br>
@@ -15,5 +16,5 @@
     » Azalan Stok Takibi<br>
     » Ürün İade 
 </p>
+</body>
 </html>
-
